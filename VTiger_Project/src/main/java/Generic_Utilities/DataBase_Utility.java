@@ -20,5 +20,5 @@ public class DataBase_Utility
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/qspiders","root","root");
 		con.close();
 	}
-	//second push11
+	//second push11 - edit in github
 }
